@@ -45,7 +45,7 @@ SimCH can be run via command line interface (CLI) of Windows/Linux/macOS as foll
     ```pip3 install sympy```
 
 (2) SimCH installation  
-  --unzip SimCH_v0.1.zip in an available directory.
+  --unzip SimCH-main.zip in an available directory.
 
 ****All python packages should be installed in Python3 directory and be run on Python3.***
 
@@ -76,7 +76,7 @@ The unpacked folder contains 13 test datasets as follows.
 - Haber_GSE92332 - GSE92332_FAE_UMIcounts.txt
 
 ## 5.2 Simulation of SimCH
-Enter the folder 'SimCH' containing a Python script named 'SimCH.py' and run  
+Enter the folder 'SimCH-main/SimCH_v0.1/SimCH' containing a Python script named 'SimCH.py' and run  
 
   ```$ python SimCH.py```  
   
