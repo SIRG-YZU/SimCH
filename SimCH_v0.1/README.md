@@ -59,7 +59,7 @@ The file contains only one row of cell group IDs that sequentially corresponds t
 
 # 5. Testing SimCH
 ## 5.1 Download test datasets
-After SimCH installation, download test datasets from https://sourceforge.net/projects/crisprvi/files/data/dataset-1.zip .  
+After SimCH installation, download test datasets from https://github.com/SIRG-YZU/SimCH/blob/main/datasets.zip .  
 The unpacked folder contains 13 test datasets as follows.
 - Camp_GSE75140 - Camp.txt
 - Klein_GSE65525 - Klein.txt
