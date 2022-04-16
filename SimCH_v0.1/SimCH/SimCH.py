@@ -1,5 +1,5 @@
 #Package release: SimCH (version 0.1, April 2022)
-#Authors: Wang Gongming, Sun Lei
+#Authors: Gongming Wang, Lei Sun
 #Email: sunlei(at)yzu.edu.cn
 #Description: SimCH is a Python-based simulator for benchmarking and evaluating scRNA-seq data computational methods.
 #License: SimCH is distributed under the GNU GENERAL PUBLIC (GPL) license (Version 3).
