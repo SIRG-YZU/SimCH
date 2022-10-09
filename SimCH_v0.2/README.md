@@ -80,7 +80,7 @@ The unpacked folder contains 13 test datasets as follows.
 - Haber_GSE92332 - GSE92332_FAE_UMIcounts.txt
 
 ## 5.2 Simulation of SimCH
-Enter the folder 'SimCH-main/SimCH_v0.1/SimCH' containing a Python script named 'SimCH.py' and run  
+Enter the folder 'SimCH-main/SimCH_v0.2/SimCH' containing a Python script named 'SimCH.py' and run  
 
   ```$ python SimCH.py```  
   
@@ -137,10 +137,10 @@ Then you can test above SimCH sub-modes on the test datasets as follows:
 	-2      Batch ratio (for extended simulation):[1]
 	-3      Batch variation (for extended simulation):[0, 0.2]
 	-4      Path (for extended simulation):No
-	-5      DEgene ratio (for extended simulation):0.2
-	-6      DEgene variation (for extended simulation):[0, 0.5]
-	-7      Non-linear gene ratio (for extended simulation):0.01
-	-8      Marker gene ratio (for extended simulation):0.01
+	-5      DE genes ratio (for extended simulation):0.2
+	-6      DE genes variation (for extended simulation):[0, 0.5]
+	-7      Non-linear genes ratio (for extended simulation):0.01
+	-8      Marker genes ratio (for extended simulation):0.01
 	-9      Library magnification (for extended simulation):1
 	-10     Cell number (for extended simulation):864
 	
